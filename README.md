@@ -2,4 +2,5 @@
 
 - 🔭 I’m currently working on GangstaCat/gangstacat.github.io
 - 🌱 I’m currently learning how to do stuff
+- 📫 How to reach me: GangstaCat#0458
 - ⚡ Fun fact: I'm dumb
